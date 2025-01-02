@@ -61,8 +61,8 @@ This is a simple 2D OpenGL game implemented in C++ using the FreeGLUT library. T
 - **Escape (ESC)**: Quit the game.
 
 ## Screenshots
-![Game Screenshot]((https://github.com/user-attachments/assets/50478c7b-c9b5-43e1-9fee-36ed0a0acb7b)
-)
+![Game Screenshot](https://github.com/user-attachments/assets/50478c7b-c9b5-43e1-9fee-36ed0a0acb7b)
+
 
 ## Code Highlights
 - **Player Movement**:
