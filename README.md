@@ -55,6 +55,9 @@ This is a simple 2D OpenGL game implemented in C++ using the FreeGLUT library. T
    ./OpenGLGame
    ```
 
+## Executable
+If you prefer not to compile the code, you can download the executable file for Windows that is ready to play.
+
 ## Controls
 - **Arrow Keys**: Move the player left and right.
 - **Spacebar**: Shoot bullets.
@@ -62,7 +65,6 @@ This is a simple 2D OpenGL game implemented in C++ using the FreeGLUT library. T
 
 ## Screenshots
 ![Game Screenshot](https://github.com/user-attachments/assets/50478c7b-c9b5-43e1-9fee-36ed0a0acb7b)
-
 
 ## Code Highlights
 - **Player Movement**:
@@ -104,7 +106,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contributions
 Contributions, bug reports, and feature requests are welcome! Feel free to fork this repository and submit pull requests.
-
----
-Enjoy the game and happy coding!
-
